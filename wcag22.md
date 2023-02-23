@@ -209,20 +209,15 @@ user agent or assistive technology).
 ### Wersja polska
 
 ::: {.section .sc .new}
-#### Dragging Movements
+#### Funkcja przeciągania
 
 AA
 
 New
 
-All functionality that uses a dragging movement for operation can be
-achieved by a single pointer without dragging, unless dragging is
-essential or the functionality is determined by the user agent and not
-modified by the author.
+Wszystkie elementy wymagające funkcji przeciągania do obsługi mogą być obsługiwane za pomocą pojedynczego gestu, chyba że przeciąganie jest kluczowe, lub funkcjonalność określona jest przez programy użytkownika, a nie autora treści.
 
-This requirement applies to web content that interprets pointer actions
-(i.e. this does not apply to actions that are required to operate the
-user agent or assistive technology).
+Wymóg ten dotyczy treści internetowych odczytujących pojedyncze gesty (to znaczy nie dotyczy działań wymaganych do obsługi programów użytkownika i technologii asystujących).
 :::
 
 

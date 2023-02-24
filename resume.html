@@ -1,6 +1,7 @@
 ---
 title: Moje resume
 layout: page
+description: 'doświadczenie zawodowe, edukacja, pasje, nagrody'
 ---
 <div id="content" itemscope itemtype="http://schema.org/ProfilePage">
       <header itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -40,7 +41,7 @@ layout: page
               <li itemscope itemtype="http://schema.org/BusinessEvent">
                 <div>
                   <aside>
-                    <h4 itemprop="name" {{ job.position }}</h4>
+                    <h4 itemprop="name"> {{ job.position }}</h4>
 
                     <h5 itemprop="location" itemscope itemtype="http://schema.org/Place" class="h-card p-location org fn">
                       <a itemprop="organizer name" href="{{ job.website }}">

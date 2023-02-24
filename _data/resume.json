@@ -1,4 +1,4 @@
-      {
+{
   "$schema" : "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics" : {
     "name" : "Jacek Zadrożny",
@@ -8,12 +8,12 @@
     "phone" : "603709923",
     "url" : "https://informaton.blog",
     "summary" : "Jestem zanurzony w nowoczesnych technologiach i Internecie. Jestem też osobą niewidomą, która często napotyka na trudności w dostępie do informacji i urządzeń. Dlatego moim głównym obszarem działań jest dostępność (ang. accessibility) stron internetowych, oprogramowania i urządzeń elektronicznych. Zajmuję się tą tematyką od 1998 roku.",
-    "location": {
-      "address": "ul. Stanisława Fiszera 16 m. 13",
-      "postalCode": "04-402",
-      "city": "Warszawa",
-      "countryCode": "pl",
-      "region": "mazowieckie"
+    "location" : {
+      "address" : "ul. Stanisława Fiszera 16 m. 13",
+      "postalCode" : "04-402",
+      "city" : "Warszawa",
+      "countryCode" : "pl",
+      "region" : "mazowieckie"
     },
     "profiles" : [
       {
@@ -35,7 +35,7 @@
   },
   "work" : [
     {
-      "company" : "Fundacja Wspierania Zrównoważonego Rozwoju",
+      "name" : "Fundacja Wspierania Zrównoważonego Rozwoju",
       "position" : "Ekspert do spraw dostępności",
       "startDate" : "2021-01-01",
       "highlights" : [],
@@ -513,7 +513,6 @@
       "location" : "Warszawa"
     }
   ],
-  
   "volunteer" : [],
   "education" : [
     {
@@ -617,7 +616,6 @@
       "publisher" : "Ministerstwo Edukacji Narodowej i Sportu",
       "releaseDate" : "2005-12-31",
       "summary" : "Wydawnictwo przeznaczone głównie dla nauczycieli szkół ogólnodostępnych, którym przydarzy się uczeń z niepełnosprawnością wzroku. Poruszone zostały w niej tematy związane z ograniczeniami i możliwościami takich uczniów, aspekty rehabilitacyjne, psychologiczne i technologiczne."
-      
     }
   ],
   "skills" : [

@@ -1,5 +1,5 @@
 ---
-title: 'Nowe kryteria do tłumaczenia
+title: 'Nowe kryteria do tłumaczenia'
 ---
 
 ## Do tłumaczenia

@@ -33,50 +33,33 @@ description: 'doświadczenie zawodowe, edukacja, pasje, nagrody'
 
       <main>
         <section>
-          <h3>Pracowałem:</h3>
+          <h3>Praca</h3>
 
           <ol>
-            {% assign experience = site.data.resume.work | reverse %}
+            {% assign experience = site.data.resume.work  %}
             {% for job in experience %}
               <li itemscope itemtype="http://schema.org/BusinessEvent">
-aside>
 <h4 itemprop="name"> {{ job.position }}</h4>
-
-                    <p itemprop="location" itemscope itemtype="http://schema.org/Place">
-                      <a itemprop="organizerName" href="{{ job.website }}">
-{{ job.company }}</a></p>
-<span>
-                      — <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                          <span itemprop="addressLocality">{{ job.location.city }}</span>,
-                          <span itemprop="addressRegion">{{ job.location.region }}</span></span>
-                      </span></aside>
-
-<aside>
+<p><a href="{{ job.url }}">{{ job.name }}</a></p>
+<p>{{ job.location }}</p>
                     <time itemprop="startDate" datetime="{{ job.startDate }}">
-                      {{ job.startDate  | date: %m %Y }}
+                      {{ job.startDate  | date: "%m %Y" }}
                     </time>
                      do
                     {% if job.endDate %}
                       <time itemprop="endDate" datetime="{{ job.endDate }}"> 
-                        {{ job.endDate }}
+                        {{ job.endDate | date: "%m %Y" }}
                       </time>
                     {% else %}
                       <span>obecnie</span>
                     {% endif %}
-                  </aside>
-                </div>
-
-                <ul itemprop="description">
-                  {% for highlight in job.highlights %}
-                    <li>{{ highlight }}</li>
-                  {% endfor %}
-                </ul>
+<p>{{ job.summary }}</p>
               </li>
             {% endfor %}
           </ol>
-        </section>
+</section>
 
-        <section class="vcalendar">
+        <section >
           <h2>Education</h2>
 
           <ol class="list-style--none">

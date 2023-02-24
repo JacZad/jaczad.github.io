@@ -43,7 +43,7 @@ description: 'doświadczenie zawodowe, edukacja, pasje, nagrody'
                   <aside>
                     <h4 itemprop="name"> {{ job.position }}</h4>
 
-                    <h5 itemprop="location" itemscope itemtype="http://schema.org/Place" class="h-card p-location org fn">
+                    <h5 itemprop="location" itemscope itemtype="http://schema.org/Place">
                       <a itemprop="organizer name" href="{{ job.website }}">
                         {{ job.company }}
                       </a>
@@ -57,13 +57,13 @@ description: 'doświadczenie zawodowe, edukacja, pasje, nagrody'
                   </aside>
 
                   <aside>
-                    <time itemprop="startDate" class="dt-start" datetime="{{ job.startDate }}" title="{{ job.startDate }}">
-                      {{ job.startDate | date: "%Y-%b" }}
+                    <time itemprop="startDate" datetime="{{ job.startDate }}">
+                      {{ job.startDate }}
                     </time>
                      do
                     {% if job.endDate %}
-                      <time itemprop="endDate" class="dt-end" datetime="{{ job.endDate }}" title="{{ job.endDate }}">
-                        {{ job.endDate | date: "%Y-%b" }}
+                      <time itemprop="endDate" datetime="{{ job.endDate }}" 
+                        {{ job.endDate }}
                       </time>
                     {% else %}
                       <span>obecnie</span>

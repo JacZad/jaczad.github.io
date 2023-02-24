@@ -1,11 +1,11 @@
 ---
 title: Moje resume
-layout: ProfilePage
+layout: page
 ---
 <div id="content" itemscope itemtype="http://schema.org/ProfilePage">
-      <header itemprop="author editor" itemscope itemtype="http://schema.org/Person">
+      <header itemprop="author" itemscope itemtype="http://schema.org/Person">
         <ul>
-          <li itemprop="telephone" >{{ site.data.resume.basics.phone }}</li>
+          <li itemprop="telephone">{{ site.data.resume.basics.phone }}</li>
           <li>
             <a itemprop="email" href="mailto:{{ site.data.resume.basics.email }}">
               {{ site.data.resume.basics.email }}
@@ -37,10 +37,10 @@ layout: ProfilePage
           <ol>
             {% assign experience = site.data.resume.work | reverse %}
             {% for job in experience %}
-              <li itemscope itemtype="http://schema.org/BusinessEvent" class="p-experience h-event {% if forloop.index >= 4 %}print--hide{% endif %}">
+              <li itemscope itemtype="http://schema.org/BusinessEvent">
                 <div>
                   <aside>
-                    <h4 itemprop="name" class="p-name">{{ job.position }}</h4>
+                    <h4 itemprop="name" {{ job.position }}</h4>
 
                     <h5 itemprop="location" itemscope itemtype="http://schema.org/Place" class="h-card p-location org fn">
                       <a itemprop="organizer name" href="{{ job.website }}">

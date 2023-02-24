@@ -215,7 +215,7 @@ AA
 
 New
 
-Wszystkie elementy wymagające funkcji przeciągania do obsługi mogą być obsługiwane za pomocą pojedynczego gestu, chyba że przeciąganie jest kluczowe, lub funkcjonalność określona jest przez programy użytkownika, a nie autora treści.
+Wszystkie elementy wymagające do działania funkcji przeciągania mogą być obsługiwane za pomocą pojedynczego gestu, chyba że przeciąganie jest kluczowe, lub funkcjonalność określona jest przez programy użytkownika, a nie autora treści.
 
 Wymóg ten dotyczy treści internetowych odczytujących pojedyncze gesty (to znaczy nie dotyczy działań wymaganych do obsługi programów użytkownika i technologii asystujących).
 :::

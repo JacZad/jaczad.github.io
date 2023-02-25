@@ -1,17 +1,12 @@
 ---
-id: 299
 title: 'Rozwinięcia skrótów (WCAG 2.0 SC 3.1.4, poziom AAA)'
 date: '2012-10-09T08:01:00+02:00'
 layout: post
-guid: 'http://informaton.pl/?p=299'
-permalink: /2012/10/09/rozwiniecia-skrtw-wcag-2-0-sc-3-1-4-poziom-aaa/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
-    - easy-to-read
-    - język
+    - ETR
+    - 'prosty język'
     - skróty
     - tekst
 ---

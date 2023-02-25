@@ -1,17 +1,12 @@
 ---
-id: 1161
 title: 'Dostępność i prawa autorskie &#8211; o problemach na styku opowiadałem na tegorocznym Copycampie'
 date: '2014-11-08T16:56:53+01:00'
 layout: post
-guid: 'http://informaton.pl/?p=1161'
-permalink: /2014/11/08/dostepnosc-i-prawa-autorskie-o-problemach-na-styku-opowiadalem-na-tegorocznym-copycampie/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
     - audiodeskrypcja
-    - Copycamp
+    - 'CopyCamp'
     - e-booki
     - 'język migowy'
     - napisy

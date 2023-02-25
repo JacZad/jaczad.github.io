@@ -1,21 +1,14 @@
 ---
-id: 475
 title: 'Rozwijanie skrótów w tekstach'
 date: '2013-01-04T09:10:00+01:00'
 layout: post
-guid: 'http://informaton.pl/?p=475'
-permalink: /2013/01/04/rozwijanie-skrtw-w-tekstach/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
-    - ABBR
-    - easy-to-read
-    - 'HTML 5'
     - semantyka
     - skróty
     - tekst
+    - 'prosty język'
 ---
 
 Redagując tekst publikowany na stronie internetowej trzeba dbać, by był zrozumiały dla jak największego kręgu odbiorców. Jedną z podstawowych zasad jest rozwijanie stosowanych w tekście skrótów, które nie muszą być znane wszystkim.

@@ -1,16 +1,11 @@
 ---
-id: 818
 title: 'Rusza druga edycja konkursu dostępnej cyberprzestrzeni'
 date: '2013-09-12T08:32:08+02:00'
 layout: post
-guid: 'http://informaton.pl/?p=818'
-permalink: /2013/09/12/rusza-druga-edycja-konkursu-dostepnej-cyberprzestrzeni/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
-    - FDC
+    - 'Forum Dostępnej Cyberprzestrzeni'
     - konkurs
 ---
 

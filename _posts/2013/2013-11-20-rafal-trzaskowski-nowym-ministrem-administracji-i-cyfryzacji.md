@@ -1,17 +1,10 @@
 ---
-id: 896
 title: 'Rafał Trzaskowski nowym ministrem administracji i cyfryzacji'
 date: '2013-11-20T17:19:29+01:00'
 layout: post
-guid: 'http://informaton.pl/?p=896'
-permalink: /2013/11/20/rafal-trzaskowski-nowym-ministrem-administracji-i-cyfryzacji/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
-    - dostępność
-    - MAiC
     - prawo
     - 'Rafał Trzaskowski'
     - 'Unia Europejska'

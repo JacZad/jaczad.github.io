@@ -1,21 +1,10 @@
 ---
-id: 2335
 title: 'Certyfikacja dostępności cyfrowych produktów'
 date: '2021-05-27T19:54:56+02:00'
 excerpt: 'Próbuję podejść do certyfikacji dostępności cyfrowych produktów całościowo. Znaczy się - dość płytko. To jednak jest tylko zaczyn do dyskusji.'
-layout: post
-guid: 'http://informaton.blog/?p=2335'
-permalink: /2021/05/27/certyfikacja-dostepnosci-cyfrowych-produktow/
-timeline_notification:
-    - '1622138101'
-publicize_twitter_user:
-    - jaczad
-publicize_linkedin_url:
-    - ''
 categories:
     - artykuły
 tags:
-    - Akredytacja
     - audyt
     - certyfikacja
     - 'organizacje pozarządowe'

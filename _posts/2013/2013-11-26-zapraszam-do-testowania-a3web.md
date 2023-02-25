@@ -1,21 +1,15 @@
 ---
-id: 899
 title: 'Zapraszam do testowania A3Web'
 date: '2013-11-26T14:28:09+01:00'
 layout: post
-guid: 'http://informaton.pl/?p=899'
-permalink: /2013/11/26/zapraszam-do-testowania-a3web/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
     - audyt
-    - 'dostępne strony'
-    - MAiC
     - raport
     - specyfikacja
-    - 'WCAG 2.0'
+    - 'WCAG'
+    - 'Twoje nowe możliwości'
 ---
 
 Mniej ostatnio tekstów w tym serwisie, więc ktoś mógłby pomyśleć, że przestałem się zajmować dostępnością. Tak naprawdę jednak, po cichu i z zupełnie nowymi adeptami dostępności, tworzyliśmy narzędzie, które można od dzisiaj testować. Narzędziem tym jest [A3Web](http://a3web.org/), którego [wersja beta dostępna jest na razie na serwerze roboczym.](http://stow1.edl.pl/) Wszelkiego rodzaju krytykę i uwagi przyjmuję z pokorą tutaj i w każdym innym miejscu, chociaż największą pewność szybkiej reakcji można mieć wysyłając je na adres <testerzy@tnm.org.pl>.

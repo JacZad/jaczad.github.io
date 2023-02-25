@@ -1,18 +1,12 @@
 ---
-id: 624
 title: 'Analiza przypadku &#8211; e-deklaracje podatkowe Ministerstwa Finansów'
 date: '2013-03-05T14:12:12+01:00'
 layout: post
-guid: 'http://informaton.pl/?p=624'
-permalink: /2013/03/05/analiza-przypadku-e-deklaracje-podatkowe-ministerstwa-finansw/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
     - Adobe
-    - AIR
-    - e-goverment
+    - ePaństwo
     - Flash
     - PDF
     - podatki

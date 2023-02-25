@@ -1,17 +1,11 @@
 ---
-id: 403
 title: 'Szeroko i otwarcie o dostępności'
 date: '2012-11-25T09:06:00+01:00'
 layout: post
-guid: 'http://informaton.pl/?p=403'
-permalink: /2012/11/25/szeroko-i-otwarcie-o-dostepnosci/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
     - audio
-    - 'Creative Commons'
     - 'język migowy'
     - prawo
     - słuch

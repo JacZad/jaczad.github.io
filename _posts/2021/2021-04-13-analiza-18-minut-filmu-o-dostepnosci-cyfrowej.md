@@ -1,29 +1,19 @@
 ---
-id: 2197
 title: 'Analiza 18 minut filmu o dostępności cyfrowej'
 date: '2021-04-13T22:53:08+02:00'
 excerpt: 'Trochę się przyczepiam do filmu na YouTube na temat dostępności cyfrowej Staram się rozwiać mity.'
-layout: post
-guid: 'http://informaton.blog/?p=2197'
-permalink: /2021/04/13/analiza-18-minut-filmu-o-dostepnosci-cyfrowej/
-publicize_linkedin_url:
-    - ''
-timeline_notification:
-    - '1618347189'
-publicize_twitter_user:
-    - jaczad
 categories:
     - artykuły
     - filmy
 tags:
     - czcionki
     - 'deklaracja dostępności'
-    - ETRT
+    - ETR
     - formularz
     - 'język migowy'
     - kontrast
     - ustawa
-    - 'WCAG 2.0.1'
+    - 'WCAG'
 ---
 
 Na grupę na Facebooku dotyczącą dostępności cyfrowej, wrzucono łącze do filmu na YouTube. Film traktował o dostępności cyfrowej, czy ściślej – stron internetowych. Nie mam zamiaru pastwić się, tylko sprostować kilka rzeczy. Dopiero po przeczytaniu obejrzyjcie film. Jest na końcu wpisu.

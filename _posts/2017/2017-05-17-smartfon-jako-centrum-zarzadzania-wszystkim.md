@@ -1,20 +1,11 @@
 ---
-id: 1662
 title: 'Smartfon jako centrum zarządzania wszystkim'
 date: '2017-05-17T10:05:53+02:00'
 layout: post
-guid: 'http://informaton.pl/?p=1662'
-permalink: /2017/05/17/smartfon-jako-centrum-zarzadzania-wszystkim/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
-    - AGD
-    - aplikacje
-    - iPhone
-    - mobilne
-    - RTV
+    - 'aplikacje mobilne'
     - smartfony
 ---
 

@@ -1,4 +1,5 @@
 ---
+layout:event
 title: 'Zapraszam na spotkanie o audiodeskrypcji'
 name: 'Krytycznie o kryteriach - audiodeskrypcja'
 organizer: 'Jacek Zadrożny'

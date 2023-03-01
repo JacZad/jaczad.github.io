@@ -1,4 +1,5 @@
 ---
+layout: event
 title: 'Kolej na kolej, czyli dlaczego dostępność transportu kolejowego jest tak marna, pomimo góry pieniędzy'
 date: 2023-02-23
 categories: podcast

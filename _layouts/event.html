@@ -46,8 +46,8 @@ layout: base
   <div class="event-details">
     <div class="event-date">
       <h2>Data</h2>
-      <p><time itemprop="startDate" datetime="{{ page.date | date: "%Y-%m-%dT%H:%M" }}">{{ page.date | date: "%d %B %Y" }}</time></p>
-      <p><time itemprop="endDate" datetime="{{ page.end_date | date: "%Y-%m-%dT%H:%M" }}">{{ page.end_date | date: "%d %B %Y" }}</time></p>
+      <p><time itemprop="startDate" datetime="{{ page.startDate | date: "%Y-%m-%dT%H:%M" }}">{{ page.startDate | date: "%d.%m.%Y" }} godz. {{ page.startDate | date: "%H:%M" }}-{{ page.endDate | date: "%H:%M" }}</time></p>
+<p>Czas trwania <span itemprop="duration">{{ page.duration }}</span></p>
     </div>
     
 {% if page.location %}
@@ -70,16 +70,17 @@ layout: base
 {% endif %}    
     <div class="event-organizer" itemprop="organizer" itemscope itemtype="http://schema.org/Organization">
       <h2>Organizator</h2>
-      <p itemprop="name">{{ page.organizer }}</p>
+      <p itemprop="organizer">{{ page.organizer }}</p>
     </div>
     
-    <div class="event-url">
-      <p><a itemprop="url" href="{{ page.url }}">{{ page.title }}</a></p>
-    </div>
+
+
+
   </div>
 </div>
 
         {{ content }}
+<p><a itemprop="url" href="{{ page.url }}" external>Link do wydarzenia</a></p>
       </article>
 
       {% if page.tags.size > 0 %}

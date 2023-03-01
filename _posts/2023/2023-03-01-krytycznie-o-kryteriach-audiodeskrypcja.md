@@ -1,12 +1,13 @@
 ---
-layout:event
 title: 'Zapraszam na spotkanie o audiodeskrypcji'
+layout: event
 name: 'Krytycznie o kryteriach - audiodeskrypcja'
 organizer: 'Jacek Zadrożny'
 startDate: '2023-03-06T10:00'
 endDate: '2023-03-06T11:00'
+duration: '01:00'
 description: 'Krytycznie o kryteriach 1.2.3 i 1.2.5 WCAG. Porozmawiamy o tym, jak rozumieć i stosować zasady dostępności dotyczące audiodeskrypcji. Kiedy jest potrzebna, a kiedy można odpuścić.'
-url: 'https://zoom.us/wc/join/99436699260?pwd=Z3FtVG1IeHIzUWNzd1d5OWNTZ0Uydz09'
+url: https://zoom.us/wc/join/99436699260?pwd=Z3FtVG1IeHIzUWNzd1d5OWNTZ0Uydz09
 categories: wydarzenia
 tags: ['WCAG', 'audiodeskrypcja', 'kryteria sukcesu']
 ---

@@ -8,6 +8,9 @@ endDate: '2023-03-06T11:00'
 duration: '01:00'
 description: 'Krytycznie o kryteriach 1.2.3 i 1.2.5 WCAG. Porozmawiamy o tym, jak rozumieć i stosować zasady dostępności dotyczące audiodeskrypcji. Kiedy jest potrzebna, a kiedy można odpuścić.'
 url: https://zoom.us/wc/join/99436699260?pwd=Z3FtVG1IeHIzUWNzd1d5OWNTZ0Uydz09
+location:
+  - name: Zoom
+    url: https://zoom.us/wc/join/99436699260?pwd=Z3FtVG1IeHIzUWNzd1d5OWNTZ0Uydz09
 categories: wydarzenia
 tags: ['WCAG', 'audiodeskrypcja', 'kryteria sukcesu']
 ---
@@ -18,3 +21,5 @@ W spotkaniu weźmie udział **Robert Więckowski** z Fundacji Kultury bez barier
 2. Wyjaśniamy czym jest audiodeskrypcja i komu pomaga.
 3. Analizujemy różne przypadki, żeby zdecydować, czy należy stosować audiodeskrypcję, czy nie.
 4. Rozmawiamy, dyskutujemy, kłócimy się.
+
+Mam nadzieję, że podczas spotkania rozwiejemy obawy i uspokoimy niektórych. A innych może przestraszymy. No ale to już tak bywa.

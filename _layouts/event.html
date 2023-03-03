@@ -46,7 +46,7 @@ layout: base
   <div class="event-details">
     <div class="event-date">
       <h2>Kiedy i gdzie?</h2>
-      <p><time itemprop="startDate" datetime="{{ page.startDate | date: "%Y-%m-%dT%H:%M" }}">{{ page.startDate | date: "%d.%m.%Y" }} godz. {{ page.startDate | date: "%H:%M" }}-{{ page.endDate | date: "%H:%M" }}</time></p>
+      <p><time itemprop="startDate" datetime="{{ page.startDate | date: "%Y-%m-%dT%H:%M" }}">{{ page.startDate | date: "%d.%m.%Y" }}</time> godz. <time itemprop="endDate" datetime="{{ page.endDate | date: "%Y-%m-%dT%H:%M" }}">{{ page.startDate | date: "%H:%M" }}-{{ page.endDate | date: "%H:%M" }}</time></p>
 <p>Czas trwania <span itemprop="duration">{{ page.duration }}</span></p>
     </div>
     

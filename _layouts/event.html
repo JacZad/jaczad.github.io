@@ -45,7 +45,7 @@ layout: base
   
   <div class="event-details">
     <div class="event-date">
-      <h2>Data</h2>
+      <h2>Kiedy i gdzie?</h2>
       <p><time itemprop="startDate" datetime="{{ page.startDate | date: "%Y-%m-%dT%H:%M" }}">{{ page.startDate | date: "%d.%m.%Y" }} godz. {{ page.startDate | date: "%H:%M" }}-{{ page.endDate | date: "%H:%M" }}</time></p>
 <p>Czas trwania <span itemprop="duration">{{ page.duration }}</span></p>
     </div>
@@ -57,7 +57,13 @@ layout: base
       <p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">{{ page.address }}</p>
     </div>
 {% endif %}
-    <div class="event-description">
+{% if page.online %}
+  <div itemprop="location" itemscope itemtype="http://schema.org/VirtualLocation">
+<p><a href="{% page.online.url %}" external>{% page.online.name %}</a></p>
+{% endif %}
+    div>
+    
+<div class="event-description">
       <h2>Opis</h2>
       <p itemprop="description">{{ page.description }}</p>
     </div>

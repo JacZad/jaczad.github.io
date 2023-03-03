@@ -59,7 +59,7 @@ layout: base
 {% endif %}
 {% if page.online %}
   <div itemprop="location" itemscope itemtype="http://schema.org/VirtualLocation">
-<p itemprop="name"><a itemprop="url" href="{{ page.online.url }}" external>{{ page.online.name }}</a></p>
+<p><a itemprop="url" href="{{ page.online.url }}" external><span  itemprop="name">{{ page.online.name }}</span></a></p>
 </div>
 {% endif %}
    
@@ -76,18 +76,14 @@ layout: base
     </div>
 {% endif %}    
     <div class="event-organizer" itemprop="organizer" itemscope itemtype="http://schema.org/Person">
-      <h2>Organizator</h2>
-      <p itemprop="name">{{ page.organizer.name }}</p>
+<p>Organizator: <span  itemprop="name">{{ page.organizer.name }}</span></p>
     </div>
-    
-
-
 
   </div>
 </div>
 
         {{ content }}
-<p><a itemprop="url" href="{{ page.url }}" external>Link do wydarzenia</a></p>
+
       </article>
 
       {% if page.tags.size > 0 %}

@@ -8,8 +8,8 @@ endDate: '2023-03-06T11:00'
 duration: '01:00'
 description: 'Krytycznie o kryteriach 1.2.3 i 1.2.5 WCAG. Porozmawiamy o tym, jak rozumieć i stosować zasady dostępności dotyczące audiodeskrypcji. Kiedy jest potrzebna, a kiedy można odpuścić.'
 online:
-  - name: Link do spotkania w Zoom
-    url: https://zoom.us/wc/join/99436699260?pwd=Z3FtVG1IeHIzUWNzd1d5OWNTZ0Uydz09
+  name: Link do spotkania w Zoom
+  url: https://zoom.us/wc/join/99436699260?pwd=Z3FtVG1IeHIzUWNzd1d5OWNTZ0Uydz09
 categories: wydarzenia
 tags: ['WCAG', 'audiodeskrypcja', 'kryteria sukcesu']
 ---

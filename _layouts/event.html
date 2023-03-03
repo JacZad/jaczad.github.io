@@ -50,7 +50,7 @@ layout: base
 <p>Czas trwania <span itemprop="duration">{{ page.duration }}</span></p>
     </div>
     
-{% if page.location %}
+{% if page.offline %}
     <div class="event-location" itemprop="location" itemscope itemtype="http://schema.org/Place">
       <h2>Lokalizacja</h2>
       <p itemprop="name">{{ page.location }}</p>
@@ -59,7 +59,7 @@ layout: base
 {% endif %}
 {% if page.online %}
   <div itemprop="location" itemscope itemtype="http://schema.org/VirtualLocation">
-<p><a href="{% page.online.url %}" external>{% page.online.name %}</a></p>
+<p><a href="{{ page.online.url }}" external>{{ page.online.name }}</a></p>
 {% endif %}
     div>
     

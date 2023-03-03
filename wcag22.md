@@ -215,7 +215,7 @@ AA
 
 New
 
-Wszystkie elementy wymagające funkcji przeciągania do obsługi mogą być obsługiwane za pomocą pojedynczego gestu, chyba że przeciąganie jest kluczowe, lub funkcjonalność określona jest przez programy użytkownika, a nie autora treści.
+Wszystkie elementy wymagające do działania funkcji przeciągania mogą być obsługiwane za pomocą pojedynczego gestu, chyba że przeciąganie jest kluczowe, lub funkcjonalność określona jest przez programy użytkownika, a nie autora treści.
 
 Wymóg ten dotyczy treści internetowych odczytujących pojedyncze gesty (to znaczy nie dotyczy działań wymaganych do obsługi programów użytkownika i technologii asystujących).
 :::
@@ -276,52 +276,33 @@ resolution enhancements and anti-aliasing can be ignored.
 ### Wersja polska
 
 ::: {.section .sc .new}
-#### Focus Appearance
+#### Wygląd fokusu
 
 AA
 
 New
 
-When the keyboard focus indicator is visible, one or both of the
-following are true:
+Jeśli wskaźnik fokusu jest widoczny jedno lub oba z poniższych stwierdzeń są prawdziwe:
 
-1.  The entire focus indicator meets all the following:
-    -   encloses the user interface component or sub-component that is
-        focused, and
-    -   has a contrast ratio of at least 3:1 between the same pixels in
-        the focused and unfocused states, and
-    -   has a contrast ratio of at least 3:1 against adjacent
-        non-focus-indicator colors.
-2.  An area of the focus indicator meets all the following:
-    -   is at least as large as the area of a 1 CSS pixel thick
-        perimeter of the unfocused component or sub-component, or is at
-        least as large as a 4 CSS pixel thick line along the shortest
-        side of the minimum bounding box of the unfocused component or
-        sub-component, and
-    -   has a contrast ratio of at least 3:1 between the same pixels in
-        the focused and unfocused states, and
-    -   has a contrast ratio of at least 3:1 against adjacent
-        non-focus-indicator colors, or is no thinner than 2 CSS pixels.
+1.  Cały wskaźnik fokusu spełnia wszystkie poniższe warunk:
+    -   Otacza całość komponentu użytkownika, bądź sub komponentu na którym się skupia i
+    -   Ma współczynnik kontrastu 3:1 pomiędzy tymi samymi pikselami w sfokusowanym i niesfokusowanym stanie i
+    -   Ma współczynnik kontrastu 3:1 względem przylegających kolorów nie będących częścią wskaźnika fokusu.
+2.  Obszar wskaźnika fokusu spełnia wszystkie poniższe warunki:
+    -   Ma obwód o wielkości przynajmniej 1 pixela CSS grubości niesfokusowanego elementu bądź sub komponentu lub jest wielkości przynajmniej 4 pikseli CSS grubości linii wzdłuż krótszego boku minimalnej ramki zamykającej niesfokusowanego komponentu bądź sub komponentu i
+    -   Ma współczynnik kontrastu 3:1 pomiędzy tymi samymi pikselami w sfokusowanym i niesfokusowanym stanie i
+    -   Ma współczynnik kontrastu 3:1 względem przylegających kolorów nie będących częścią wskaźnika fokusa lub nie jest cieńszy niż 2 pixele CSS.
 
-Exceptions:
+Wyjątki:
 
--   The focus indicator is determined by the user agent and cannot be
-    adjusted by the author, or
--   The focus indicator and the indicator\'s background color are not
-    modified by the author.
+-   Wskaźnik fokusu określony jest przez programy użytkownika i nie może być odyfikowany przez autora lub
+-   Wskaźnik fokusu i kolor tła wskaźnika nie są modyfikowane przez autora.
 
-What is perceived as the user interface component or sub-component (to
-determine enclosure or size) depends on its visual presentation. The
-visual presentation includes the component\'s visible content, border,
-and component-specific background. It does not include shadow and glow
-effects outside the component\'s content, background, or border.
+To co postrzega się jako komponent bądź sub komponent interfejsu użytkownika (by można było określić obramowanie lub rozmiar) zależy od wizualnej prezentacji. Wizualna prezentacja zawiera widoczną treść komponentu, granice i specyficzny dla komponentu kolor tła. Nie zalicza się do niej cieni i efektów poświaty poza treścią komponentu, jego tłem lub granicami.
 
-Examples of sub-components that may receive a focus indicator are menu
-items in an opened drop-down menu, or focusable cells in a grid.
+Przykładami sub komponentów które mogą przyjmować wskaźnik fokusu są elementy listy rozwijanej menu lub lub pojedyncze komórki w tabeli.
 
-Contrast calculations can be based on colors defined within the
-technology (such as HTML, CSS and SVG). Pixels modified by user agent
-resolution enhancements and anti-aliasing can be ignored.
+Współczynnik kontrastu można obliczyć w oparciu o kolory definiowane przez technologie (takie jak HTML, CSS i SVG). Pixele modyfikowane przez programy użytkownika, wzmacniacze rozdzielczości i anty-aliasing można zignorować.
 :::
 
 

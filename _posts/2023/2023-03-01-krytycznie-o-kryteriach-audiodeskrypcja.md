@@ -2,7 +2,8 @@
 title: 'Zapraszam na spotkanie o audiodeskrypcji'
 layout: event
 name: 'Krytycznie o kryteriach - audiodeskrypcja'
-organizer: 'Jacek Zadrożny'
+organizer:
+  name: 'Jacek Zadrożny'
 startDate: '2023-03-06T10:00'
 endDate: '2023-03-06T11:00'
 duration: '01:00'

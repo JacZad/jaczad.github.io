@@ -57,9 +57,11 @@ layout: base
       <p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">{{ page.address }}</p>
     </div>
 {% endif %}
+
 {% if page.online %}
+  <link itemprop="eventAttendanceMode" href="https://schema.org/OnlineEventAttendanceMode" />
   <div itemprop="location" itemscope itemtype="http://schema.org/VirtualLocation">
-<p>Link do wydarzenia: <a itemprop="url" href="{{ page.online.url }}" external>{{ page.online.url }}</a></p>
+<p>Link do wydarzenia: <a itemprop="url" href="{{ page.online.url }}">{{ page.online.url }}</a></p>
 </div>
 {% endif %}
    

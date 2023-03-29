@@ -1,0 +1,26 @@
+---
+title: 'Zmiany w ustawie o dostępności cyfrowej'
+date: '2023-03-29'
+description: 'Zebrałem informacje o zmianach, jakie wprowadziła ostatnia nowelizacja ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.'
+categories: artykuły
+tags: ['prawo', 'ustawa o dostępności cyfrowej', 'Adam Pietrasiewicz', 'WCAG']
+---
+
+Dzisiaj podczas dostępnej środy Adam Pietrasiewicz zaprezentował zmiany, jakie pojawiły się w ustawie o dostępności cyfrowej. W większości są to zmiany precyzujące lub aktualizujące. Postaram się je wymienić z krótkim komentarzem.
+
+1. Wskazanie odpowiedzialności podmiotu publicznego za dostępność produktów zamówionych przez ten podmiot. Zdarzało się bowiem, że podmioty publiczne uchylały się, uzasadniając że to nie oni, tylko dostawca nie zadbał. (zmiana art. 3 ust. 2 pkt 5 lit. a)
+2. Do elementów wyłączonych z obowiązku zapewnienia dostępności dodano złożone schematy i dokumentacje techniczne w formie nietekstowej. Faktycznie - wiele z nich trudno uczynić dostępnymi. Jednak już czekam na pytania o to, co jest złożone, a co nie lub ile musi być procent tekstu w  tekście, żeby uznać że dokumentacja jest tekstowa, a nie graficzna. (art. 3 ust. 2 pkt 9)
+3. Wyraźne wskazanie, że podmiot publiczny odpowiada za dostępność treści publikowanych na innych platformach. Nie ma zatem już uchylania się, bo Facebook to nie nasz lub nic nie możemy poradzić. (art. 5 ust. 1)
+4. Zaktualizowano także odniesienie do normy europejskiej. Teraz ustawa wskazuje na Polską normę wprowadzającą normę ETSI EN 301 549 V3.2.1:2021. Ciekawe, kiedy trzeba będzie znowu nowelizować ustawę w tym miejscu. (art. 5 ust. 3)
+5. Wprowadzono konkretny termin na zapewnienie dostępności nagrań z transmisji na żywo. Do tej pory było tak, że nagranie trzeba było opublikować natychmiast i nie wiadomo było, co zrobić z napisami czy audiodeskrypcją. Teraz pewnie wiele osób odetchnie z ulgą, bo dostali termin 14 dni na zapewnienie dostępności. Z drugiej strony - to pokazuje, że dla innych multimediów takiego terminu nie ma. Szatański plan. (dodany art. 5a)
+6. Nikt z tego nie korzysta, ale zmieniono przepisy odnośnie powołania się na andmierne koszty. Po pierwsze - uchylić się można od zapewnienia konkretnych elementów, a nie całej strony internetowej. Po drugie - do szacowania kosztów dodano szacowanie korzyści dla osób niepełnosprawnych wynikających z zzapewnienia dostępności. Myślę, że nadal nikt nie będzie korzystał z tej możliwości. (uchylenie art. 8ust 2 i inne wynikające z tych zmian)
+7. Doprecyzowanie kwestii języka deklaracji dostępności. Jak się zdaje, posiadacze ukraińskich lub angielskich wersji językowych stron internetowych mieli wątpliwości. Rozum podpowiada, że jak ktoś korzysta z ukraińskiej wersji językowej, to dlatego że nie zna polskiego i oferowanie mu deklaracji dostępności po polsku jest głupie. Nie rozumiem takich ludzi, ale teraz mają odpowiedź wprost w ustawie. (art. 10 ust. 1)
+8. Możliwość Wskazania komórki organizacyjnej, a nie tylko osoby do kontaktu. Wiele osób ubolewało, że muszą w deklaracji dostępności wskazać osobę do kontaktu. Dostali teraz prawie to czego chcieli - możliwość wskazania komórki organizacyjnej. Napisałem "prawie", bo z przepisu raczej wynika, że nie mogą wskazać zewnętrznej firmy. A może mogą... (art. 10 ust. 4 pkt 4)
+9. Pojawiła się zmiana odnośnie opisywania skrótów klawiaturowych. Nareszcie ludzie przestaną pisać "na stronie internetowej można korzystać ze standardowych skrótów przeglądarki internetowej". Dość to było głupie, więc dobrze że jest zmiana. Teraz należy wskazać tylko **specjalne** skróty działające na tej stronie lub w aplikacji. (art. 10, ust. 4 pkt 4)
+10. Opis dostępności architektonicznej można już publikować gdzieś indziej, a w deklaracji dostępności publikować tylko łącze. Wydawałoby się, że to było już możliwe, ale pewnie znowu pojawiały się w różnych głowach wątpliwości. A ja zapytam - co oznacza "na stronie internetowej" w kontekście tego, że fizycznie ten plik może być przecież gdziekolwiek? (art. 10 ust. 4 pkt 6)
+11. Doprecyzowanie tego, gdzie umieszczać deklarację dostępności aplikacji mobilnej. Ja nie rozumiem, co tam jest napisane i bardzo się tego wstydzę. Najbardziej podejrzewam, że deklaracja podmiotu publicznego będzie miała na końcu linki do aplikacji mobilnych i obok linki do ich deklaracji dostępności. Jeżeli tak, to obawiam się, że użytkownikom trudno będzie znaleźć te deklaracje. (art. 10 ust. 4 pkt 7 i 8)
+12. Ministrowi do spraw informatyzacji dołożono publikowanie informacji, jak przeprowadzać badania dostępności. (art. 12 pkt 5)
+13. Podkreślono, że przy żądaniu zapewnienia dostępności trzeba zapewnić dostępność, a dopiero gdy to jest niemożliwe - dostęp alternatywny. Do tej pory wydawało mi się to oczywiste. (art. 18 ust. 1)
+14. Zmiany w załączniku do ustawy. Po pierwsze - uspójnienie z polskim oficjalnym tłumaczeniem WCAG. Po drugie - uwzględnienie specyfiki aplikacji mobilnych. Dla nich lista będzie krótsza. (załącznik)
+
+Mam nadzieję, że dobrze to zreferowałem. Ja wiem, że tak to działa i ludzie mają mieć napisane jak krowie na rowie. Jednak wciąż mnie to zadziwia. Nowelizacja nie wnosi prawie niczego istotnego. Prawie wszystko można było ogarnąć interpretacjami. Duże zmiany pojawiły się w okolicy art. 8 i w załącznioku do ustawy.

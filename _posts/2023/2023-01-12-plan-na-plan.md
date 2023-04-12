@@ -1,10 +1,10 @@
 ---
-title: "Odcinek nr 18: Plan na plan, czyli jak wdrażać dostępność z harmonogramem i głową"
+title: 'Odcinek nr 18: Plan na plan, czyli jak wdrażać dostępność z harmonogramem i głową'
 date: 2023-01-12
 author: "Jacek Zadrożny"
 layout: post
 categories: podcast
-tags: ["ustawa o zapewnieniu dostępności", "Agata Gawska", "plan zapewnienia dostępności", "koordynacja ]
+tags: ["ustawa o zapewnianiu dostępności", "Agata Gawska", "plan zapewnienia dostępności", "koordynacja"]
 excerpt: Jak przygotować plan działania na rzecz poprawy zapewniania dostępności osobom ze szczególnymi potrzebami? Na ten temat rozmawiam z Agatą Gawską, która trochę ich już zrobiła.
 ---
 

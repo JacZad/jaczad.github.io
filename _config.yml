@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Informaton o cyfrowej dostępności
+title: Informaton
 description: 'Dużo o cyfrowej dostępności stron internetowych i aplikacji mobilnych, technologiach asystujących, WCAG, komunikowaniu się i wielu innych rzeczach.'
 language: pl
 # Your name to show in the footer
@@ -22,11 +22,9 @@ author: Jacek Zadrożny
 
 navbar-links:
   O mnie : "aboutme"
-  Imperium:
-    - Podcast: https://anchor.fm/jaczad
-    - Newsletter: https://dostepnik.substack.com
-    - Quizally: https://quizally.pl
-################
+  Podcast: https://anchor.fm/jaczad
+  Newsletter: https://dostepnik.substack.com
+    ############
 # --- Logo --- #
 ################
 
@@ -35,7 +33,7 @@ navbar-links:
 avatar: "/assets/img/informaton.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-# round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter

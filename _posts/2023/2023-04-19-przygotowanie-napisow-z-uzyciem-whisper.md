@@ -3,7 +3,7 @@ title: 'Jak przygotować napisy do filmu?'
 subtitle: 'Sztuczna inteligencja może Ci pomóc przygotować napisy do filmu. Nie zrobi za Ciebie całej pracy, ale przeważającą większość.'
 description: 'Wykorzystanie automatycznego rozpoznawania mowy do tworzenia napisów do filmów. Wersja na terminal MacOS i aplikację pod Windows'
 categories: artykuły
-tags: {'napisy', 'Whisper', 'sztuczna inteligencja', 'Subtitle edit']
+tags: ['napisy', 'Whisper', 'sztuczna inteligencja', 'Subtitle edit']
 ---
 
 Napisy do filmów są ważnym elementem dostępności cyfrowej. Dzięki nim można oglądać filmy i zapoznać się z ich treścią nie słysząc ścieżki dźwiękowej. Wbrew pozorom, służy to nie tylko osobom głuchym. Napisy przydadzą się każdemu, kto w konkretnym momencie nie może słuchać, bo dookoła jest bardzo głośno lub chce ukryć, że ogląda film.

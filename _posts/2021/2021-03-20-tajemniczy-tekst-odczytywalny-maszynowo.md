@@ -1,21 +1,12 @@
 ---
-id: 2116
 title: 'Tajemniczy tekst odczytywalny maszynowo'
 date: '2021-03-20T10:58:42+01:00'
 excerpt: 'Deszyfruję pojęcie tekstu odczytywalnego maszynowo. Takie pojęcie wprowadziła ustawa o zapewnieniu dostępności i rodzi ono konfuzję.'
 layout: post
-guid: 'http://informaton.blog/?p=2116'
-permalink: /2021/03/20/tajemniczy-tekst-odczytywalny-maszynowo/
-timeline_notification:
-    - '1616234322'
-publicize_twitter_user:
-    - jaczad
-publicize_linkedin_url:
-    - ''
 categories:
     - artykuły
 tags:
-    - ETRT
+   - ETR 
     - HTML
     - 'język migowy'
     - tekst

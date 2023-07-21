@@ -463,14 +463,14 @@ footer .footer-custom-content {
 }
 
 .post-preview a {
-  text-decoration: none;
+  text-decoration: underline;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: {{ site.text-col | default: "#404040" }};
 }
 
 .post-preview a:focus,
 .post-preview a:hover {
-  text-decoration: none;
+  text-decoration: underline;
   color: {{ site.hover-col | default: "#0085A1" }};
 }
 
@@ -582,7 +582,7 @@ footer .footer-custom-content {
 
 .blog-tags a {
   color: {{ site.text-col | default: "#404040" }};
-  text-decoration: none;
+  text-decoration: underline;
   padding: 0 0.3125rem;
   opacity: 0.8;
   border: 1px solid transparent;
@@ -1096,7 +1096,7 @@ pre {
 }
 #search-results-container a {
   color: #fff;
-  text-decoration: none;
+  text-decoration: underline;
 }
 #search-results-container a:hover {
   color: #fff;

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<title>WCAG 2.1 Understanding Orientation</title>
+		<link rel="stylesheet" type="text/css" href="../../css/sources.css" class="remove" />
+	</head>
+	<body>
+		<h1>
+			<strong>Orientation</strong>
+			<br />
+			Understanding
+			<abbr title="Success Criterion">SC</abbr>
+			2.6.2
+		</h1>
+		<section id="intent">
+			<h2>Intencja tego kryterium sukcesu</h2>
+			<p>
+Intencją tego kryterium sukcesu jest zapewnienie, że treść wyświetla się w orientacji (pionowej lub poziomej) wybranej przez użytkownika. Niektóre strony internetowe i aplikacje automatycznie ustawiają orientację ekranu, blokują go w tej orientacji i oczekują, że użytkownicy zareagują obracając swoje urządzenie, aby dopasować się do niego, co może  sprawiać problemy. Niektórzy użytkownicy mają swoje urządzenia zamontowane w stałej orientacji (np. na ramieniu wózka inwalidzkiego). Dlatego strony internetowe i aplikacje muszą wspierać obie orientacje, nie ograniczając możliwości zmiany orientacji. Zmiany w treści lub funkcjonalności wynikające z wielkości wyświetlacza nie są objęte tym kryterium, które koncentruje się na ograniczeniach orientacji.</p>
+
+<p>Historycznie, urządzenia miały  wyświetlacze o stałej orientacji, a wszystkie treści były tworzone w celu dopasowania do tej orientacji wyświetlacza. Obecnie większość urządzeń mobilnych i wiele innych urządzeń (np. monitorów) ma, na poziomie sprzętowym, możliwość dynamicznego dostosowania domyślnej orientacji wyświetlacza na podstawie informacji z czujników. Celem tego Kryterium Sukcesu jest to, żeby autorzy nigdy nie  ograniczali orientacji treści, zapewniając w ten sposób, że zawsze będzie dopasowana do orientacji wyświetlacza urządzenia.</p>.			<h3>Zablokowanie orientacji urządzenia</h3>
+<p>Ważne jest rozróżnienie pomiędzy odpowiedzialnością autora za nieograniczanie treści do określonej orientacji, a ustawieniami urządzenia regulującymi blokadę orientacji wyświetlacza.</p>.
+			<p>Wiele urządzeń mobilnych oferuje mechaniczny przełącznik lub ustawienie systemowe (lub oba), aby umożliwić użytkownikowi zablokowanie wyświetlacza urządzenia w określonej orientacji. Jeśli użytkownik zdecyduje się zablokować całe urządzenie w konkretnej orientacji, wszystkie aplikacje powinny uwzględnić  to ustawienie i odpowiednio wyświetlić zawartość.</p>
+<p>To Kryterium Sukcesu uzupełnia ustawienia blokady orientacji ekranu. Strona internetowa, która nie ogranicza orientacji wyświetlania, zawsze będzie obsługiwać ustawienie orientacji na poziomie systemowym, ponieważ ustawienie systemowe jest rozpoznane przez agenta użytkownika. Alternatywnie, gdy orientacja nie jest zablokowana na poziomie urządzenia, agent użytkownika powinien wyświetlić stronę zgodnie z orientacją urządzenia (albo  domyślną, albo aktualną orientacją określoną przez  czujniki urządzenia).</p>.
+			
+<p>Wyjątek dotyczący rzeczy uznanych za istotne ma na celu sytuacje, w których treść byłaby zrozumiała tylko w określonej orientacji lub gdy technologia ogranicza możliwe orientacje. Jeśli treść jest przeznaczona dla określonego środowiska, które jest dostępne tylko w jednej orientacji (np. telewizor), wówczas treść może ograniczać orientację. Technologie takie jak wirtualna rzeczywistość wykorzystują ekrany w goglach, które nie mogą zmienić orientacji względem oczu użytkownika.</p>
+.      <section id="benefits">
+				<h3>Korzyści</h3>
+				<ul>
+<li>Użytkownicy z niepełnosprawnością rąk, którzy mają zamontowane urządzenie będą mogli korzystać z treści w ich ustalonej orientacji.</li>
+					<li>Użytkownicy słabowidzący będą mogli wyświetlać treści w orientacji, która jest dla nich najlepsza, na przykład zwiększyć rozmiar tekstu, oglądając treści w układzie poziomym.</li>.
+				</ul>
+			</section>
+		</section>
+		<section id="examples">
+			<h2>Przykłady</h2>
+			<ul>
+				<li><strong>Przykład 1: strona internetowa z filmami</strong><br />
+				Film jest wyświetlany zarówno w orientacji pionowej, jak i poziomej w zależności od wybranej przez użytkownika orientacji.</li><li><strong>Przykład 2: strona internetowa komunikatora</strong><br />
+				Strona internetowa komunikatora może wyświetlać wiadomości zarówno w orientacji pionowej, jak i poziomej.</li>
+				<li><strong>Przykład 3: internetowy czytnik książek elektronicznych</strong><br />
+				internetowy czytnik książek elektronicznych może wyświetlać zawartość książki zarówno w orientacji pionowej, jak i poziomej..</li>
+				<li><strong>Przykład 4: zdeponowanie czeku za pomocą aplikacji bankowej</strong><br />
+				Przykładem sytuacji, gdy orientacja jest istotna, może być aplikacja bankowa wymagająca    orientacji poziomej, żeby łatwo i dokładnie uchwycić obraz czeku do zdeponowania. Papierowe czeki są zazwyczaj około dwa razy szersze niż  wysokie.</li>
+<li><strong>Przykład 5: aplikacja pianino</strong><br />
+Przykładem, w którym orientacja jest istotna, może być aplikacja do gry na pianinie, wymagająca  aby urządzenie było w orientacji poziomej, żeby zapewnić miejsce dla wystarczającej liczby klawiszy do wygodnego używania. Ponieważ aplikacja pianina emuluje fizyczną klawiaturę, która powinna zachować  właściwości   klawiszy, inaczej  dostępne byłoby zbyt mało klawiszy albo klawisze byłyby zbyt wąskie.</li>
+			</ul			</ul>
+		</section>
+		<section id="resources">
+			<h2>Powiązane zasoby</h2>
+			<ul>
+				<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Managing_screen_orientation">Managing Screen Orientation</a></li>
+				<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries">Using Media Queries</a></li>
+				<li><a href="https://css-tricks.com/snippets/css/media-queries-for-standard-devices/">Media Queries for Standard Devices</a></li>
+				<li><a href="https://css-tricks.com/snippets/css/orientation-lock/">Orientation Lock</a></li>
+				<li><a href="https://css-tricks.com/forums/topic/responsive-design-for-landscape-orientation/">Responsive Design for Landscape Orientation</a></li>
+				<li><a href="https://www.w3.org/TR/css-device-adapt-1/#orientation-desc">The Orientation Descriptor</a></li>
+				<li><a href="https://www.w3.org/TR/screen-orientation/">The Screen Orientation API</a></li>
+			</ul>
+		</section>
+		<section id="techniques">
+			<h2>Techniki</h2>
+			<section id="sufficient">
+				<h3>Wystarczające</h3>.
+				<ul>
+          			<li><a href="../../techniques/general/G214">G214</a></li>
+				</ul>
+			</section>
+			<section id="failure">
+				<h3>Niepowodzenie</h3>
+			   <ul>
+					<li><a href="../../techniques/failures/F97">F97</a></li>
+					<li><a href="../../techniques/failures/F100">F100</a></li>
+				</ul>
+			</section>
+		</section>
+	</body>
+</html>

@@ -1,23 +1,14 @@
 ---
-id: 2023
 title: 'Wojna Braille’a z karnawałem'
 date: '2019-06-04T19:27:00+02:00'
 layout: post
-guid: 'http://informaton.blog/?p=2023'
-permalink: /2019/06/04/wojna-braillea-z-karnawaem/
-timeline_notification:
-    - '1559669223'
-publicize_twitter_user:
-    - jaczad
-publicize_linkedin_url:
-    - ''
 categories:
     - artykuły
 ---
 
-Piszę tu czasem o alfabecie Braille’a, który jest pismem dotykowym zaprojektowanym dla osób niewidomych. Piszę, chociaż jest to technologia wymierająca, coraz mniej popularna i mająca coraz mniej użytkowników. Napisałem nawet [podziękowania dla jego twórcy](https://informaton.blog/2019/01/05/czy-potrzebny-jest-nam-alfabet-braillea/) w jego urodziny. Napiszę jeszcze raz, bo sprowokowały mnie do tego 2 teksty Damiana Przybyły oraz lektura nowej książki Jacka Dukaja pt. „Po piśmie”.
+Piszę tu czasem o alfabecie Braille’a, który jest pismem dotykowym zaprojektowanym dla osób niewidomych. Piszę, chociaż jest to technologia wymierająca, coraz mniej popularna i mająca coraz mniej użytkowników. Napisałem nawet podziękowania dla jego twórcy w jego urodziny. Napiszę jeszcze raz, bo sprowokowały mnie do tego 2 teksty Damiana Przybyły oraz lektura nowej książki Jacka Dukaja pt. „Po piśmie”.
 
-### Braille jest mi obojętny
+## Braille jest mi obojętny
 
 Pierwszy tekst Damiana to [Wykluczeni z wyboru](https://sp9qlo.wordpress.com/2019/05/09/wykluczeni-z-wyboru/), a drugi – [Dlaczego niewidomi nienawidzą brajla](https://sp9qlo.wordpress.com/2019/05/30/dlaczego-niewidomi-nienawidza-brajla/). W obu pojawia się motyw alfabetu Braille’a, chociaż w pierwszym dosyć marginalnie. Jednak to z niego pochodzi następujący cytat:
 
@@ -29,13 +20,13 @@ Być może są takie osoby niewidome, dla których jest to problem. Ja jednak za
 
 Potwierdzam to wszystko i dodam jeszcze, że audiobooki mogę czytać rozpakowując zmywarkę, leżąc w łóżku, kręcąc na rowerku stacjonarnym. Jakie są przewagi czytania Braillem? Damian ich nie podaje, sugerując jakąś utratę wyboru, wstyd przed niepełnosprawnością, wyłączanie się z kultury. Najpierw myślałem, że to zwykła bufonada, poszukiwanie klucza do bycia lepszym, a potem zacząłem czytać nową książkę Jacka Dukaja.
 
-### Pożegnanie z pismem
+## Pożegnanie z pismem
 
 Darzę tego autora szczególnym szacunkiem. Uważam go za najlepszego polskiego pisarza, być może w całej historii polskiej literatury. Książka „Po piśmie” to zbiór esejów o przemianie ludzkiej cywilizacji. Jest tam esej o pracy, sztucznej inteligencji i o transformacji postpiśmiennej. Dotarłem tam do pewnego fragmentu, który pokazał mi inny powód tej krucjaty brajlistów.
 
 Krucjaty, bo Damian nie jest pierwszy i pewnie nie będzie ostatni. Swego czasu dyskusję, a nawet awanturę, wywołała konferencja prasowa pewnego prezesa niewidomej fundacji, który twierdził, że bez Braille’a nie da się pracować i uczyć. Twierdził tak wbrew oczywistym faktom. Ja sam swego czasu uległem propagandzie, że braille jest niezbędny w niektórych zawodach, jak tłumacz lub programista. Jednakże niewidomi programiści wyprowadzili mnie z błędu. Dlaczego zatem ci krzyżowcy są tak zajadli?
 
-Oni boją się nadchodzącej zmiany. Zmiany, którą ja też już starałem się opisać w moim krótkim [tekście poświęconym rezygnacji przez ludzkość z pisma](https://informaton.blog/2017/09/05/nastepny-skok-cywilizacyjny-moze-wypchnac-osoby-niewidome-za-burte/). Pisałem więc o tym samym, co Jacek Dukaj, chociaż moja bazgranina jest niczym wobec jego geniuszu. Tak więc mamy zmianę która już zachodzi, a jej indykatorem jest spadek tradycyjnego czytelnictwa, o którym w corocznych raportach informuje Biblioteka Narodowa. Wbrew zatem temu, co w pierwszym cytacie napisał Damian, ludzie widzący rezygnują z pisma i to **znacznie szybciej, niż ludzie niewidomi!** Szybciej, bo mają więcej możliwości i nie muszą się ograniczać do tekstu.
+Oni boją się nadchodzącej zmiany. Zmiany, którą ja też już starałem się opisać w moim krótkim tekście poświęconym rezygnacji przez ludzkość z pisma. Pisałem więc o tym samym, co Jacek Dukaj, chociaż moja bazgranina jest niczym wobec jego geniuszu. Tak więc mamy zmianę która już zachodzi, a jej indykatorem jest spadek tradycyjnego czytelnictwa, o którym w corocznych raportach informuje Biblioteka Narodowa. Wbrew zatem temu, co w pierwszym cytacie napisał Damian, ludzie widzący rezygnują z pisma i to **znacznie szybciej, niż ludzie niewidomi!** Szybciej, bo mają więcej możliwości i nie muszą się ograniczać do tekstu.
 
 ## Nowe wyznanie wiary
 

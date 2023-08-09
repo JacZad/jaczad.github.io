@@ -1,25 +1,13 @@
 ---
-id: 671
 title: 'Konsultacje społeczne rozporządzenia KRRiT o jak najmniejszym udziale audiodeskrypcji, napisów i języka migowego'
 date: '2013-04-15T09:15:19+02:00'
 layout: post
-guid: 'http://informaton.pl/?p=671'
-permalink: /2013/04/15/konsultacje-spoleczne-rozporzadzenia-krrit-o-jak-najmniejszym-udziale-audiodeskrypcji-napisw-i-jezyka-migowego/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
-tags:
-    - audiodeskrypcja
-    - 'język migowy'
-    - KRRiT
-    - multimedia
-    - napisy
-    - prawo
-    - telewizja
+tags: ['audiodeskrypcja', 'język migowy', 'KRRiT', 'multimedia', 'napisy', 'prawo', 'telewizja']
 ---
 
-Krajowa Rada Radiofonii i Telewizji ogłosiła [konsultacje społeczne treści rozporządzenia do art. 18a ustawy o radiofonii i telewizji.](http://www.krrit.gov.pl/krrit/konsultacje-krrit/news,1100,konsultacje-rozporzadzenia-w-sprawie-nizszego-udzialu-w-programie-telewizyjnym-audycji-z.html)Delegacja ustawowa jest taka, że mogła go nie wydawać. Jednak trzeba zrobić dobrze nadawcom, więc się zdecydowali. Zachęcam do przesyłania uwag do projektu rozporządzenia, którego treść poniżej.
+Krajowa Rada Radiofonii i Telewizji ogłosiła konsultacje społeczne treści rozporządzenia do art. 18a ustawy o radiofonii i telewizji. Delegacja ustawowa jest taka, że mogła go nie wydawać. Jednak trzeba zrobić dobrze nadawcom, więc się zdecydowali. Zachęcam do przesyłania uwag do projektu rozporządzenia, którego treść poniżej.
 
 Projekt
 

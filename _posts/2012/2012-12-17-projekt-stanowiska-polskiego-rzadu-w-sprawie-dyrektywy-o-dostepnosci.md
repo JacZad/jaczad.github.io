@@ -1,12 +1,7 @@
 ---
-id: 446
 title: 'Projekt stanowiska polskiego rządu w sprawie dyrektywy o dostępności'
 date: '2012-12-17T09:41:46+01:00'
 layout: post
-guid: 'http://informaton.pl/?p=446'
-permalink: /2012/12/17/projekt-stanowiska-polskiego-rzadu-w-sprawie-dyrektywy-o-dostepnosci/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
@@ -14,7 +9,7 @@ tags:
     - 'WCAG 2.0'
 ---
 
-Pisałem już o projekcie [dyrektywy o dostępności stron internetowych](http://informaton.pl/?p=413) i jest już gotowe stanowisko polskiego rządu w tej sprawie. Niepokojące są wykluczenia, które chce wprowadzać Polska, by scharmonizować prawo unijne z polskim. Uzasadnienie dla wyłączenia transmisji na żywo w polskim prawie ma sens, ale w zawężonej podmiotowo dyrektywie już nie ma wielkiego sensu. Może jednak należy znowelizować polskie rozporządzenie, a nie dyrektywę unijną…
+Pisałem już o projekcie dyrektywy o dostępności stron internetowych i jest już gotowe stanowisko polskiego rządu w tej sprawie. Niepokojące są wykluczenia, które chce wprowadzać Polska, by scharmonizować prawo unijne z polskim. Uzasadnienie dla wyłączenia transmisji na żywo w polskim prawie ma sens, ale w zawężonej podmiotowo dyrektywie już nie ma wielkiego sensu. Może jednak należy znowelizować polskie rozporządzenie, a nie dyrektywę unijną…
 
 | **Projekt Stanowiska RP**   *przygotowany w związku z art. 7 ustawy z dnia 8 października 2010 r.*  *o współpracy Rady Ministrów z Sejmem i Senatem w sprawach związanych z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej (Dz. U. Nr 213, poz. 1395)* |
 |---|

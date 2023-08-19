@@ -1,7 +1,7 @@
 ---
-title: Sztuczna inteligencja vs. CAPTCHA: Czy to już koniec?
+title: 'Sztuczna inteligencja vs. CAPTCHA: Czy to już koniec?'
 date: 2023-08-19
-excerpt: Wraz z rozwojem sztucznej inteligencji CAPTCHA traci na swojej skuteczności. Badania wykazują, że SI jest w stanie pokonać te zabezpieczenia, osiągając wyższą dokładność i szybkość rozwiązywania zagadek niż ludzie. 
+excerpt: 'Wraz z rozwojem sztucznej inteligencji CAPTCHA traci na swojej skuteczności. Badania wykazują, że SI jest w stanie pokonać te zabezpieczenia, osiągając wyższą dokładność i szybkość rozwiązywania zagadek niż ludzie.'
 tags: ['CAPTCHA', 'sztuczna inteligencja', 'zabezpieczenia']
 ---
 

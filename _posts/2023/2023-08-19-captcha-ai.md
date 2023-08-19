@@ -2,7 +2,7 @@
 title: Sztuczna inteligencja vs. CAPTCHA: Czy to już koniec?
 date: 2023-08-19
 excerpt: Wraz z rozwojem sztucznej inteligencji CAPTCHA traci na swojej skuteczności. Badania wykazują, że SI jest w stanie pokonać te zabezpieczenia, osiągając wyższą dokładność i szybkość rozwiązywania zagadek niż ludzie. 
-tags: ['CAPTCHA', 'sztuczna inteligencja', 'zabezpieczenia]
+tags: ['CAPTCHA', 'sztuczna inteligencja', 'zabezpieczenia']
 ---
 
 Czy zdarzyło Ci się kiedyś próbować wejść na stronę internetową i napotkać serię zagadek? Trzeba poprawnie zidentyfikować sygnalizację świetlną, autobus lub przejście dla pieszych, aby udowodnić, że jesteś człowiekiem. Większość jest częściowo lub całkowicie niedostępnych dla użytkowników z niepełnosprawnościami. Jakiś czas temu zostałem pokonany przez coś takiego w polskim sklepie Xiaomi.

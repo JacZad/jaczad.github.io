@@ -42,7 +42,7 @@ layout: base
       <article role="main" class="blog-post">
         {{ content }}
       </article>
-
+<nav>
       {% if page.tags.size > 0 %}
         <div class="blog-tags">
           <span>Tags:</span>
@@ -51,19 +51,23 @@ layout: base
           {% endfor %}
         </div>
       {% endif %}
-
+</nav>
       {% if page.after-content %}
-        <div class="after-content">
+      <aside>  
+      <div class="after-content">
           {% for file in page.after-content %}
             {% include {{ file }} %}
           {% endfor %}
         </div>
+      </aside>
       {% endif %}
 
       {% if page.social-share %}
+      <aside>
         {% include social-share.html %}
-      {% endif %}
-
+      </aside>
+        {% endif %}
+<nav
       <ul class="pagination blog-pager">
         {% if page.previous.url %}
         <li class="page-item previous">
@@ -76,6 +80,7 @@ layout: base
         </li>
         {% endif %}
       </ul>
+    </nav>
       {% include comments.html %}
     </div>
   </div>

@@ -39,10 +39,10 @@ layout: base
         </div>
       {% endif %}
 
-      <article role="main" class="blog-post">
+      <article class="blog-post">
         {{ content }}
       </article>
-<nav>
+<nav aria-label="Tagi">
       {% if page.tags.size > 0 %}
         <div class="blog-tags">
           <span>Tags:</span>
@@ -63,11 +63,11 @@ layout: base
       {% endif %}
 
       {% if page.social-share %}
-      <aside>
+      <aside aria-label="udostępnianie">
         {% include social-share.html %}
       </aside>
         {% endif %}
-<nav
+<nav aria-label="paginacja"></nav>
       <ul class="pagination blog-pager">
         {% if page.previous.url %}
         <li class="page-item previous">

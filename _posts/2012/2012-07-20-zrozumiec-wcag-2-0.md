@@ -1,12 +1,7 @@
 ---
-id: 13
 title: 'Zrozumieć WCAG 2.0'
 date: '2012-07-20T11:31:28+02:00'
 layout: post
-guid: 'http://informaton.pl/?p=13'
-permalink: /2012/07/20/zrozumiec-wcag-2-0/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
@@ -21,7 +16,7 @@ Spełnienie wymagań zawartych w [Web Content Accessibility Guidelines (WCAG) 2.
 
 Zarówno w tym artykule, jak i we wszystkich innych, stosowane będą pewne skróty, na przykład G x.x oznacza wytyczną (guideline) o numerze składającym się z dwóch cyfr rozdzielonych kropką. Analogicznie SC x.x.x oznaczać będzie kryterium sukcesu (success criterium) o numerze składającym się z trzech cyfr rozdzielonych dwoma kropkami.
 
-### Cztery główne zasady
+## Cztery główne zasady
 
 Wszystkie wskazówki – dla porządku – zgrupowano w czterech grupach tematycznych nazwanych zasadami (principle). W strukturze WCAG 2.0 są one na samej górze i obejmują:
 
@@ -32,7 +27,7 @@ Wszystkie wskazówki – dla porządku – zgrupowano w czterech grupach tematyc
 
 Zasady mają charakter porządkujący, a jednocześnie pozwalają na sensowne grupowanie wskazówek, które stanowią esencję całego dokumentu. Od nich także zaczynają się numery początkowe wytycznych, na przykład wskazówka 1.1 jest częścią zasady pierwszej, a 4.1 – czwartej.
 
-### Wytyczne
+## Wytyczne
 
 WCAG 2.0 zawiera 12 wytycznych, które określają sposób osiągania celów zawartych w czterech zasadach. Poniżej ich lista w wersji bardzo skróconej.
 
@@ -49,7 +44,7 @@ WCAG 2.0 zawiera 12 wytycznych, które określają sposób osiągania celów zaw
 - G 3.3 – wspomaganie użytkownika przy wprowadzaniu informacji i zapobieganie popełnianiu błędów.
 - G 4.1 – kompatybilność z obecnymi i przyszłymi technologiami.
 
-### Poziomy dostępności
+## Poziomy dostępności
 
 Na potrzeby WCAG przyjęto trzy poziomy dostępności:
 

@@ -3,8 +3,8 @@ layout: base
 ---
 
 <div class="intro-header"></div>
-
-<div role="main" class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
+<main>
+<div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
   {% if page.before-content %}
     <div class="before-content">
       {% for file in page.before-content %}
@@ -23,3 +23,4 @@ layout: base
     </div>
   {% endif %}
 </div>
+</main>

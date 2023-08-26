@@ -22,7 +22,6 @@ author: Jacek Zadrożny
 
 navbar-links:
   O mnie : "aboutme"
-  Podcast: https://anchor.fm/jaczad
   Newsletter: https://dostepnik.substack.com
     ############
 # --- Logo --- #
@@ -172,10 +171,10 @@ footer-hover-col: "#0085A1"
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
 # whether or not you want to allow users to opt out of tracking.
-matomo:
-  site_id: "149"
-  uri: "matomo.sulimo.pl"
-  opt-out: true
+# matomo:
+#   site_id: "149"
+#  uri: "matomo.sulimo.pl"
+  # opt-out: true
 
 ####################
 # --- Comments --- #
@@ -249,7 +248,7 @@ timezone: "Europe/Warsaw"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 7
+paginate: 10
 
 kramdown:
   input: GFM
@@ -272,8 +271,8 @@ defaults:
 
 # Exclude these files from production site
 exclude:
-  - CHANGELOG.md
   - CNAME
+  - CHANGELOG.md
   - Gemfile
   - Gemfile.lock
   - LICENSE
@@ -284,7 +283,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-#  - jekyll-seo-tag
+  - jekyll-seo-tag
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

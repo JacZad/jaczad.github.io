@@ -1,5 +1,5 @@
 ---
-title: 'Nowelizacja ustawy o dostępności cyfrowej podczas dostępnej środy'
+title: 'Nowelizacja ustawy o dostępności cyfrowej d- ostępnej środy'
 layout: event
 name: 'Dostępna środa'
 organizer:

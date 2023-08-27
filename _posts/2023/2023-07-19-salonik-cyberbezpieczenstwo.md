@@ -1,5 +1,6 @@
 ---
-title: Cyberbezpieczeństwo, czyli jak znaleźć równowagę między dostępnością i bezpieczeństwem w sieci
+title: Cyberbezpieczeństwo
+subtitle: czyli jak znaleźć równowagę między dostępnością i bezpieczeństwem w sieci
 date: 2023-07-19
 tags: ['Wojtek Kutyla', 'cyberbezpieczeństwo', 'uwierzytelnianie', 'autoryzacja', 'CAPTCHA', 'podcast', 'Salonik u Jacka']
 ---

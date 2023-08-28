@@ -21,7 +21,7 @@ author: Jacek Zadrożny
 ###############################################
 
 navbar-links:
-  O mnie : "aboutme"
+  O mnie : "https://informaton.blog/aboutme/"
   Newsletter: https://dostepnik.substack.com
     ############
 # --- Logo --- #

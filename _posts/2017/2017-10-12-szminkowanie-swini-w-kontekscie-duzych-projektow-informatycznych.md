@@ -1,20 +1,13 @@
 ---
-id: 1766
 title: 'Szminkowanie świni w kontekście dużych projektów informatycznych'
 date: '2017-10-12T12:19:24+02:00'
 layout: post
-guid: 'http://informaton.pl/?p=1766'
-permalink: /2017/10/12/szminkowanie-swini-w-kontekscie-duzych-projektow-informatycznych/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
     - e-podręcznik
     - ORE
     - projekty
-    - świnia
-    - 'uczniowie ze specjalnymi potrzebami edukacyjnymi'
 ---
 
 Wczoraj uczestniczyłem zdalnie w spotkaniu w Ministerstwie Cyfryzacji. Tematów było kilka, w tym przedstawił się nam nowy Lider Cyfryzacji, czyli Grzegorz Zajączkowski. Rozmawialiśmy także na temat dostępności e-zasobów edukacyjnych, a w szczególności na temat niedostępności [e-podręcznika](http://www.epodreczniki.pl/begin/). Sporo dowiedziałem się na temat przyczyn porażki tego projektu i od razu skojarzyło mi się to z artykułem o [szminkowaniu dostępnością użytecznościowej świni](https://webaim.org/blog/accessibility-lipstick-on-a-usability-pig/).

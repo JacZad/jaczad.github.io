@@ -2,9 +2,9 @@
 layout: page
 title: Jacek Zadrożny
 subtitle: ekspert do spraw dostępności
-# head-extra: profile
+head-extra: 'profile.html'
 ---
-{% include profile.html %}
+
 
 Nazywam się Jacek Zadrożny. Uznaję się za eksperta do spraw dostępności, ale mam nadzieję że nie tylko ja tak sądzę. Obecnie pracuję w [Fundacji Wspierania Zrównoważonego Rozwoju](https://fwzr.pl) i to stąd mam tę nazwę stanowiska.
 

@@ -1,22 +1,13 @@
 ---
-id: 1231
 title: 'Gromadne ślepowidzenie &#8211; aplikacja łącząca osoby niewidome z wolontariuszami'
 date: '2015-01-16T09:46:37+01:00'
 layout: post
-guid: 'http://informaton.pl/?p=1231'
-permalink: /2015/01/16/gromadne-slepowidzenie-aplikacja-laczaca-osoby-niewidome-z-wolontariuszami/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
-    - Apple
-    - iOS
-    - mobilne
+    - 'aplikacje mobilne'
     - niewidomi
-    - pomoc
-    - życzliwość
----
+    
 
 Piotr Witek opisał na swoim blogu aplikację[Be my eyes](http://mojaszuflada.pl/badz-moimi-oczami/), która nie jest wcale nowym pomysłem, ale dosyć dobrze zrealizowanym. Jej zadaniem jest połączenie osoby niewidomej potrzebującej pomocy wzrokowej z kimś, kto widzi i chce pomóc. Jak pisałem – pomysł nie jest nowy, ale dotychczasowe rozwiązania łączyły z kimś konkretnym (na przykład kimś z rodziny) lub z konkretną instytucją (na przykład centrum pomocy). Tutaj jest inaczej – każdy może pomóc, jeżeli tylko ma na to ochotę.
 

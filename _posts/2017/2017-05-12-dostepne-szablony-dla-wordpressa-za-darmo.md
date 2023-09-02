@@ -1,17 +1,11 @@
 ---
-id: 1659
 title: 'Dostępne szablony dla WordPressa za darmo'
 date: '2017-05-12T08:13:58+02:00'
 layout: post
-guid: 'http://informaton.pl/?p=1659'
-permalink: /2017/05/12/dostepne-szablony-dla-wordpressa-za-darmo/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
+
 tags:
-    - 'Accessible Joe'
-    - 'strony internetowe'
     - szablony
     - Wordpress
 ---

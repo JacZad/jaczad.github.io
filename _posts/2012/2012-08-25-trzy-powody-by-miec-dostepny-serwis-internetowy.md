@@ -1,12 +1,7 @@
 ---
-id: 171
 title: 'Trzy powody by mieć dostępny serwis internetowy'
 date: '2012-08-25T09:50:00+02:00'
 layout: post
-guid: 'http://informaton.pl/?p=171'
-permalink: /2012/08/25/trzy-powody-by-miec-dostepny-serwis-internetowy/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
@@ -14,15 +9,15 @@ tags:
     - CAPTCHA
     - Flash
     - HTML
-    - narzędzie
-    - specyfikacja
+    - narzędzia
+    - specyfikacje
     - W3C
     - walidacja
 ---
 
 Budowanie dostępnych serwisów internetowych się opłaca. To wcale nie jest tak, że dostępność stron internetowych jest kosztowną fanaberią, na którą szkoda pieniędzy i czasu. I chociaż podstawowym powodem tworzenia stron zgodnie z zasadami powinna być przyzwoitość dobrego rzemieślnika, to jednak te argumenty ekonomiczne też powinny przemówić do właściciela.
 
-### Wysoka pozycja w wyszukiwarkach
+## Wysoka pozycja w wyszukiwarkach
 
 Roboty wyszukiwawcze indeksują strony internetowe na podstawie ich treści, w tym przede wszystkim tekstowych. Posługują się przy tym tzw. crawlerami, których podstawowym zadaniem jest odnajdowanie kolejnych treści, na przykład podstron. Im więcej treści zaindeksuje wyszukiwarka, tym większe prawdopodobieństwo, że konkretna strona pojawi się w wynikach wyszukiwania. Wiedzą o tym ludzie zajmujący się SEO i stosują swoje rozwiązania, które w praktyce oznaczają większą dostępność. Bo tak naprawdę wyszukiwarki przeglądają strony internetowe jak osoba niewidoma używająca programu odczytu ekranu: skanują strony od góry do dołu i klikają kolejne łącza. Z kolei serwisy przygotowane na przykład w technologii Flash są bardzo trudne do pozycjonowania, bo roboty nie mają czego indeksować. Dla nich w takich serwisach po prostu nie ma treści!. Warto zatem stosować przynajmniej następujące zasady, które pomogą pozycjonować stronę, a jednocześnie uczynią serwis bardziej dostępnym:
 
@@ -33,13 +28,13 @@ Roboty wyszukiwawcze indeksują strony internetowe na podstawie ich treści, w t
 5. Zadbaj o określenie języka strony, na przykład strony po polsku powinny mieć to zadeklarowane już w części nagłówkowej.
 6. Unikaj elementów aktywowanych **wyłącznie** kursorem myszy (menu, formularze itp.).
 
-### Większa konkurencyjność
+## Większa konkurencyjność
 
 Często przekonując do tworzenia dostępnych stron internetowych słyszę pytanie “o jakiej grupie odbiorców rozmawiamy?” To pytanie ma wykazać “biznesowe podejście” mojego rozmówcy, który liczy koszty i zyski. I nieodmiennie mnie to pytanie zadziwia, bo przecież klient to klient i pieniądze wydane przez osobę niewidomą, głuchą czy jeżdżącą na wózku są tak samo szeleszczące, jak te wydane przez widzącego, słyszącego i biegającego w maratonach. Wystarczy przez chwilę pomyśleć o bardzo prostym przypadku osoby niewidomej, która chce założyć konto w banku internetowym. W pierwszym napotkanym nie jest w stanie obsłużyć konta, więc sprawdza drugi. Tutaj interfejs jest dostępny, więc staje się klientem. A zatem pierwszy bank nie zyskał klienta, a drugi – owszem. Jaki jest bilans? Parafrazując klasyka “mieć klienta i nie mieć klienta to razem dwóch klientów” Tak naprawdę jednak tych klientów jest o wiele więcej, bo wieść się rozchodzi i następni od razu trafiają do banku z dostępnym interfejsem. Ten pierwszy może mieć nawet atrakcyjniejszą ofertę, ale cóż z tego, skoro nie da się z niego korzystać.
 
 Lekceważenie klientów ze specjalnymi potrzebami ma długą tradycję w Polsce, a jest niemal w zaniku w wielkich firmach informatycznych. Apple, Microsoft czy Adobe nie pozwalają sobie na odrzucanie klientów, bo ich zdobycie kosztuje zbyt dużo. Tym bardziej o takich klientów powinny się starać firmy małe, które walczą o każdego z innymi małymi firmami. Dostępnością serwisu internetowego można klientów zdobyć dosyć łatwo i tanio, a stracić z powodu niedostępności można raz na zawsze.
 
-### Mniejsze koszty utrzymania
+## Mniejsze koszty utrzymania
 
 Dostępność serwisów internetowych to przede wszystkim stosowanie standardów. Serwis przygotowany zgodnie z nimi, dający się zwalidować, jest łatwiejszy w konserwacji, aktualizacji, modernizacji. To truizm, ale zbyt wielu projektantów o tym nie pamięta. To nawet jest zrozumiałe, bo przecież chodzi zazwyczaj o to, by serwis zrobić szybko i tanio, a nie dobrze i solidnie. Jednak wymaganie spełniania standardów należy do inwestora i powinien postawić taki warunek przy zamówieniu.
 

@@ -6,7 +6,6 @@ layout: post
 categories:
     - artykuły
 tags:
-    - Accens
     - 'GAAD'
 excerpt: Firma Accens wystawia się na licytację, z której dochód będzie przeznaczony na osoby niepełnosprawne poszkodowane przez wojnę na Ukrainie.
 ---

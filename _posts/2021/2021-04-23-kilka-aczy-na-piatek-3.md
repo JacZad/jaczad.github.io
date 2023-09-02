@@ -1,27 +1,14 @@
 ---
-id: 2260
 title: 'Kilka łączy na piątek (3)'
 date: '2021-04-23T08:15:00+02:00'
 excerpt: 'Kolejna piątka na piątek. Tym razem narzędzia w przeglądarce Chrome.'
 layout: post
-guid: 'http://informaton.blog/?p=2260'
-permalink: /2021/04/23/kilka-aczy-na-piatek-3/
-timeline_notification:
-    - '1619158581'
-publicize_twitter_user:
-    - jaczad
-publicize_linkedin_url:
-    - ''
 categories:
     - artykuły
 tags:
-    - AndI
-    - AXE
-    - CCA
-    - IBM
-    - kontrast
     - walidator
-    - WAVE
+    - narzędzia
+    - badania
 ---
 
 Dzisiejsza piątka na piątek to rozszerzenia do przeglądarki Chrome, które warto zainstalować i używać przy sprawdzaniu dostępności strony internetowej. Jak mantrę powtarzam jednak, że automat może znaleźć pewne błędy, ostrzec przed pewnymi miejscami, ale to człowiek musi to wszystko sprawdzić. A do tego musi być czujny, bo czasem automat podpowie źle. Dlatego przed przejściem do listy narzędzi zachęcam do przeczytania o [pewnym eksperymencie](https://informaton.blog/2017/03/02/automatyczne-walidatory-dostepnosci-dzialaja-za-slabo-by-na-nich-polegac/), [wskaźniku dostępności](https://informaton.blog/2015/01/09/tajemniczy-wskaznik-dostepnosci-utilitii-czyli-o-ograniczonym-zaufaniu-do-automatow/) i dopiero potem do pobierania.

@@ -1,12 +1,7 @@
 ---
-id: 106
 title: 'Semantyka informacji i zależności (WCAG 2.0 SC 1.3.1, poziom A)'
 date: '2012-08-09T10:42:00+02:00'
 layout: post
-guid: 'http://informaton.pl/?p=106'
-permalink: /2012/08/09/semantyka-informacji-i-zaleznosci-wcag-2-0-sc-1-3-1-poziom-a/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:

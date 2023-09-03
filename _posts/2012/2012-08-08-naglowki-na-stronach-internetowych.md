@@ -1,12 +1,7 @@
 ---
-id: 100
 title: 'Nagłówki na stronach internetowych'
 date: '2012-08-08T09:29:00+02:00'
 layout: post
-guid: 'http://informaton.pl/?p=100'
-permalink: /2012/08/08/naglowki-na-stronach-internetowych/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:

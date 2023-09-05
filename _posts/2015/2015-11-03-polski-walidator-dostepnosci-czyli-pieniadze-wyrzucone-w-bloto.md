@@ -20,7 +20,7 @@ Autorzy PWD udostępnili tabelę zawierającą 29 metryk, czyli swego rodzaju wa
 
 ### 1.1.1 – tekst alternatywny
 
-> Metryka weryfikuje czy grafiki osadzone na stronie (tagi img) mają ustawiony atrybut alt. Atrybut ten powinien zawierać treść alternatywną, która jest pokazywana jeśli przeglądarka użytkownika ma wyłączoną obsługę grafiki, przykładowo: ![Smiley face](smiley.gif)
+> Metryka weryfikuje czy grafiki osadzone na stronie (tagi img) mają ustawiony atrybut alt. Atrybut ten powinien zawierać treść alternatywną, która jest pokazywana jeśli przeglądarka użytkownika ma wyłączoną obsługę grafiki.
 
 ALT nie jest jedynym sposobem opisywania grafik, chociaż jest atrybutem obowiązkowym. Jednak większy problem jest w tym, że grafiki nie są jedynymi nietekstowymi elementami na stronach internetowych. Badanie robione jest zatem po łebkach.
 

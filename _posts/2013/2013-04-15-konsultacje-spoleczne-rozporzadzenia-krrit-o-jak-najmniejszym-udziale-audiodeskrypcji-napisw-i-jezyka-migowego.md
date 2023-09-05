@@ -94,4 +94,3 @@ eczny z prawem Unii Europejskiej.
 
 - - - - - -
 
-[\[1\]](/Users/Jacek/Downloads/#_ftnref1_3440) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 85, poz. 459, Nr 112, poz. 654, Nr 153, poz. 903 i Nr 160, poz. 963 oraz z 2012 r. poz. 1209 i 1315.

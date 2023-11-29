@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 
+title: W mapach Google zapomnieli o daltonistach
 date: 2023-11-29 12:06
 category: artykuły
 tags: ["kolory", "daltonizm", "Google", "kontrast"]
-summary: 
+summary: "Mapy Google to bodaj najpopularniesza aplikacja do nawigacji. Sam często jej używam do wyznaczenia trasy komunikacją miejską lub znalezienia numeru telefonu. Ostatnia aktualizacja utrudniła życie daltonistom."
 ---
 
 Google Maps to jedna z najpopularniejszych i najbardziej użytecznych aplikacji na świecie. Umożliwia łatwe i szybkie znalezienie interesujących nas miejsc, tras, informacji o ruchu drogowym i wiele więcej. Jednak nie wszyscy użytkownicy mogą cieszyć się pełnią jej możliwości. Niedawno Google wprowadziło nowy wygląd map, który ma być bardziej czytelny i estetyczny. Niestety, zmiana ta okazała się problematyczna dla osób z zaburzeniami widzenia kolorów, zwłaszcza daltonistów.
